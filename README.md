@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +7,7 @@
         window.onload = function() {
             // Redirect to the phone number after the page loads
             window.location.href = 'tel:+15149222710';
-        }
+        };
     </script>
 </head>
 <body>
